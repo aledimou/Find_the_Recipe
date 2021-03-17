@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/aledimou/Find_the_Recipe/static/css/main.e8f690b0.chunk.css",
+    "main.js": "/aledimou/Find_the_Recipe/static/js/main.4c3e626c.chunk.js",
+    "main.js.map": "/aledimou/Find_the_Recipe/static/js/main.4c3e626c.chunk.js.map",
+    "runtime-main.js": "/aledimou/Find_the_Recipe/static/js/runtime-main.0c43a292.js",
+    "runtime-main.js.map": "/aledimou/Find_the_Recipe/static/js/runtime-main.0c43a292.js.map",
+    "static/js/2.f954bca0.chunk.js": "/aledimou/Find_the_Recipe/static/js/2.f954bca0.chunk.js",
+    "static/js/2.f954bca0.chunk.js.map": "/aledimou/Find_the_Recipe/static/js/2.f954bca0.chunk.js.map",
+    "index.html": "/aledimou/Find_the_Recipe/index.html",
+    "static/css/main.e8f690b0.chunk.css.map": "/aledimou/Find_the_Recipe/static/css/main.e8f690b0.chunk.css.map",
+    "static/js/2.f954bca0.chunk.js.LICENSE.txt": "/aledimou/Find_the_Recipe/static/js/2.f954bca0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c43a292.js",
+    "static/js/2.f954bca0.chunk.js",
+    "static/css/main.e8f690b0.chunk.css",
+    "static/js/main.4c3e626c.chunk.js"
+  ]
+}
